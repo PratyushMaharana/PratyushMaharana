@@ -7,18 +7,22 @@ I'm a high school student passionate about learning new things and exploring the
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## 🌟 Featured Projects
-- **Bird Noise and Urbanization**: A project analyzing how urbanization affects bird noises. [Check it out!](#) 
+- **Bird Noise and Urbanization**: A project analyzing how urbanization affects bird noises. [https://github.com/PratyushMaharana/kabootar]
 - *More projects coming soon!*
 
 ## 📊 GitHub Stats
-![Pratyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Pratyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PratyushMaharana&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushMaharana&layout=compact&theme=radical)
 
 ## 📫 Let's Connect
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Pratyush008PRM)
 
 ## 🎉 Fun Fact
 I’m always curious about how technology can help us understand and protect nature!
+
+## mission 
+to reach our goal to fulfil our dreams and to save the planet because there is no planet be 
+anyone want to colab with me just email me (pratyushmaharana@gmail.com)
 
 ---
 
