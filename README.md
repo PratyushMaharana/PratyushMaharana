@@ -22,7 +22,7 @@ I’m always curious about how technology can help us understand and protect nat
 
 ## mission 
 to reach our goal to fulfil our dreams and to save the planet because there is no planet be 
-anyone want to colab with me just email me (pratyushmaharana@gmail.com)
+
 
 ---
 
