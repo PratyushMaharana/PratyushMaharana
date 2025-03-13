@@ -1,14 +1,20 @@
-### Hi there, I'm Pratyush Ranjan Maharana! 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Pratyush+Ranjan+Maharana!+%F0%9F%91%8B;AI+Enthusiast+%7C+Python+Developer+%7C+Tech+Explorer" alt="Typing SVG" />
+</h1>
 
 > *“Code, Learn, Innovate & Protect the Planet 🌍”*
+
+<p align="center">
+  <img src="https://github.com/PratyushMaharana/PratyushMaharana/blob/main/banner.gif" alt="Banner" width="80%">
+</p>
 
 I'm a **high school student** passionate about learning and exploring the world of **programming & AI**. I love working with **Python** and diving into the fascinating field of **Machine Learning**. I'm always excited to build projects that solve real-world problems! 🚀
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🚀 Tech Stack & Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,scikit-learn,git,github,vscode" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,scikit-learn,git,github,vscode&perline=6" alt="Skills" />
 </p>
 
 ---
@@ -65,4 +71,6 @@ print("MFCC Features Extracted! 🐦")
 
 ---
 
-⭐️ *Thanks for visiting my profile! Feel free to explore my projects and connect with me.* 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Feel+free+to+explore+my+projects!" alt="Typing SVG" />
+</p>
