@@ -1,29 +1,68 @@
-# Hi there, I'm Pratyush Ranjan Maharana 👋
+### Hi there, I'm Pratyush Ranjan Maharana! 👋
 
-I'm a high school student passionate about learning new things and exploring the world of programming. I love working with **Python** and diving into the fascinating field of **Machine Learning**. I'm always excited to build projects that solve real-world problems!
+> *“Code, Learn, Innovate & Protect the Planet 🌍”*
 
-## 🛠️ Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-## 🌟 Featured Projects
-- **Bird Noise and Urbanization**: A project analyzing how urbanization affects bird noises. [https://github.com/PratyushMaharana/kabootar]
-- *More projects coming soon!*
-
-## 📊 GitHub Stats
-![Pratyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PratyushMaharana&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushMaharana&layout=compact&theme=radical)
-
-## 📫 Let's Connect
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Pratyush008PRM)
-
-## 🎉 Fun Fact
-I’m always curious about how technology can help us understand and protect nature!
-
-## mission 
-to reach our goal to fulfil our dreams and to save the planet because there is no planet be 
-
+I'm a **high school student** passionate about learning and exploring the world of **programming & AI**. I love working with **Python** and diving into the fascinating field of **Machine Learning**. I'm always excited to build projects that solve real-world problems! 🚀
 
 ---
 
-⭐️ *Thanks for visiting my profile! Feel free to explore my projects and connect with me.*
+## 🛠️ Tech Stack & Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,scikit-learn,git,github,vscode" alt="Skills" />
+</p>
+
+---
+
+## 🌟 Featured Projects  
+### 🐦 Bird Noise & Urbanization
+📌 *Analyzing how urbanization affects bird noises.*  
+🔗 **[GitHub Repo](https://github.com/PratyushMaharana/kabootar)**
+
+```python
+# Example Code from Project
+import librosa
+import numpy as np
+
+# Load bird audio file
+bird_audio, sr = librosa.load("birdsong.wav")
+
+# Extract features
+mfcc = librosa.feature.mfcc(y=bird_audio, sr=sr)
+print("MFCC Features Extracted! 🐦")
+```
+
+✨ *More projects coming soon!* 🚀
+
+---
+
+## 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PratyushMaharana&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratyushMaharana&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratyushMaharana&theme=radical" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 📫 Let's Connect
+<p align="center">
+  <a href="https://twitter.com/Pratyush008PRM"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://github.com/PratyushMaharana"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+---
+
+## 🎉 Fun Fact  
+💡 *I’m always curious about how technology can help us understand and protect nature!* 🌱
+
+---
+
+## 🌍 Mission
+> "To reach our goals, fulfill our dreams, and save the planet — because there is no Planet B!" 🌎💚
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to explore my projects and connect with me.* 🚀
