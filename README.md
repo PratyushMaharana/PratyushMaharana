@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Pratyush+Ranjan+Maharana!+%F0%9F%91%8B;AI+Enthusiast+%7C+Python+Developer+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=750&lines=Hi+there,+I'm+Pratyush+Ranjan+Maharana!+%F0%9F%91%8B;AI+Enthusiast+%7C+Python+Developer+%7C+Tech+Explorer" alt="Typing SVG" />
 </h1>
 
 > *“Code, Learn, Innovate & Protect the Planet 🌍”*
@@ -72,5 +72,5 @@ print("MFCC Features Extracted! 🐦")
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Feel+free+to+explore+my+projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=750&lines=Thanks+for+visiting!+Feel+free+to+explore+my+projects!" alt="Typing SVG" />
 </p>
