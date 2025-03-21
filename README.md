@@ -51,6 +51,3 @@ print("MFCC Features Extracted! 🐦")
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=750&lines=Thanks+for+visiting!+Feel+free+to+explore+my+projects!" alt="Typing SVG" />
-</p>
