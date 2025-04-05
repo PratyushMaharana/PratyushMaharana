@@ -1,11 +1,4 @@
-## 🚀 Tech Stack & Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,scikit-learn,git,github,vscode&perline=6" alt="Skills" />
-</p>
-
----
-
-## 🌟 Featured Projects  
+## Featured Projects  
 ###  Bird Noise & Urbanization
 📌 *Analyzing how urbanization affects bird noises.*  
 🔗 **[GitHub Repo](https://github.com/PratyushMaharana/kabootar)**
