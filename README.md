@@ -1,2 +1,2 @@
 My name is Pratyush Ranjan Maharana ...
-learning everthing 
+learning everything 
